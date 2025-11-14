@@ -1,4 +1,5 @@
 from myFunctions import *
+#Name: Vortexes
 turtle.tracer(0)
 #bob.speed(0)
 
@@ -66,4 +67,5 @@ for times in range( 256 ):
 
 
        
+
 
